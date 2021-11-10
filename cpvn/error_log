@@ -1,1 +1,0 @@
-[16-Oct-2017 08:44:11 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; PclZip has a deprecated constructor in /home/hellocf/public_html/cpvn/pclzip.class.php on line 70
